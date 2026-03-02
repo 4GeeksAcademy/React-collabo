@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import Jumbotron from "./Jumbotron"; // Paso 1: Importar
+import Jumbotron from "./Jumbotron"; 
 
 const Home = () => {
 	return (
